@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="System" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/AadharDetails.cpp" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/AadharDetails.h" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Assembly.cpp" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Assembly.h" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Candidate.cpp" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Candidate.h" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Election.cpp" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Election.h" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/ElectionCommision.cpp" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/ElectionCommision.h" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Person.cpp" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Person.h" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/State.cpp" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/State.h" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Voter.cpp" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/Voter.h" />
+		<Unit filename="C:/Users/soham/source/repos/OnlineVotingSystem/main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

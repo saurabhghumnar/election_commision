@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1630406210 source:e:\system\main.cpp
+	<iostream>
+	<mysql.h>
+	<windows.h>
+	<sstream>
+	"Person.h"
+
+1630402846 source:e:\system\person.cpp
+	<iostream>
+	<string.h>
+	"Person.h"
+
+1630402518 e:\system\person.h
+	<iostream>
+
+1630408554 source:e:\system\aadhardetails.cpp
+
+1630408484 source:e:\system\candidate.cpp
+
+1630408498 source:e:\system\election.cpp
+
+1630408515 source:e:\system\electioncomission.cpp
+
+1630408611 source:e:\system\state.cpp
+
+1630408465 source:e:\system\voter.cpp
+
+1630584823 source:c:\users\soham\source\repos\onlinevotingsystem\aadhardetails.cpp
+	<iostream>
+	"AadharDetails.h"
+
+1630407114 c:\users\soham\source\repos\onlinevotingsystem\aadhardetails.h
+	"Person.h"
+	<map>
+
+1630584948 c:\users\soham\source\repos\onlinevotingsystem\person.h
+	<iostream>
+
+1630594429 source:c:\users\soham\source\repos\onlinevotingsystem\assembly.cpp
+	<list>
+	<map>
+	"Assembly.h"
+	"ElectionCommision.h"
+	<mysql.h>
+	<sstream>
+
+1630414064 c:\users\soham\source\repos\onlinevotingsystem\assembly.h
+	<iostream>
+	<vector>
+	<map>
+
+1630412876 c:\users\soham\source\repos\onlinevotingsystem\electioncommision.h
+	"State.h"
+	"Person.h"
+	"Voter.h"
+	"Candidate.h"
+	"Election.h"
+	<map>
+
+1630594429 c:\users\soham\source\repos\onlinevotingsystem\state.h
+	<map>
+	<vector>
+	"Assembly.h"
+
+1630590120 c:\users\soham\source\repos\onlinevotingsystem\voter.h
+	"Person.h"
+	"Assembly.h"
+
+1630590073 c:\users\soham\source\repos\onlinevotingsystem\candidate.h
+	<iostream>
+	<map>
+	"Person.h"
+
+1630407114 c:\users\soham\source\repos\onlinevotingsystem\election.h
+	<iostream>
+	<vector>
+
+1630593015 source:c:\users\soham\source\repos\onlinevotingsystem\candidate.cpp
+	<iostream>
+	"ElectionCommision.h"
+	"Candidate.h"
+	<mysql.h>
+	<sstream>
+
+1630407114 source:c:\users\soham\source\repos\onlinevotingsystem\election.cpp
+	"Election.h"
+	"ElectionCommision.h"
+	<iostream>
+
+1630594421 source:c:\users\soham\source\repos\onlinevotingsystem\electioncommision.cpp
+	"ElectionCommision.h"
+	<mysql.h>
+	<sstream>
+	<iostream>
+
+1630585528 source:c:\users\soham\source\repos\onlinevotingsystem\person.cpp
+	<iostream>
+	<string.h>
+	"Person.h"
+	"AadharDetails.h"
+	<mysql.h>
+	<sstream>
+
+1630576522 source:c:\users\soham\source\repos\onlinevotingsystem\state.cpp
+	"State.h"
+	"ElectionCommision.h"
+	<mysql.h>
+	<sstream>
+
+1630593015 source:c:\users\soham\source\repos\onlinevotingsystem\voter.cpp
+	<iostream>
+	"Voter.h"
+	"ElectionCommision.h"
+	<mysql.h>
+	<sstream>
+
+1630593055 source:c:\users\soham\source\repos\onlinevotingsystem\main.cpp
+	<iostream>
+	"ElectionCommision.h"
+	<mysql.h>
+	<windows.h>
+	<sstream>
+
